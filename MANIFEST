@@ -6,6 +6,7 @@ META.json
 META.yml
 Makefile.PL
 README
+README.md
 dist.ini
 lib/Test/BDD/Cucumber/Harness/Html.pm
 t/author-critic.t
